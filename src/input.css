@@ -1,1 +1,23 @@
 @import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Warna untuk dark mode */
+.dark {
+  --color-background: #0f172a;
+  --color-text: #e2e8f0;
+  --color-card: #1e293b;
+  --color-primary: #60a5fa;
+}
+
+/* Terapkan variabel ke elemen dasar */
+@layer base {
+  body {
+    background-color: var(--color-background);
+    color: var(--color-text);
+    transition: background-color 0.3s, color 0.3s;
+  }
+
+  .profile-card {
+    background-color: var(--color-card);
+  }
+}
