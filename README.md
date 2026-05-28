@@ -1,4 +1,4 @@
-# Hi there, I'm Satria Mahataa! 👋
+# Hi there, I'm Satria Mahatama! 👋
 
 ![Profile views](https://komarev.com/ghpvc/?username=satriamahataa&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -27,19 +27,19 @@ Always curious, always learning. 🌱
 ### 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriamahataa&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satriadev&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming Lover
 
 <p align="center">
-  <a href="https://leetcode.com/satria_mahataa">
-    <img src="https://leetcard.jacoblin.cool/satria_mahataa?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/satriadev">
+    <img src="https://leetcard.jacoblin.cool/satriadev?theme=dark&font=Karma&ext=heatmap" alt="LeetCode Stats" />
   </a>
-  <a href="https://codeforces.com/profile/satria_mahataa">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=satria_mahataa&theme=dark" alt="Codeforces Stats" />
+  <a href="https://codeforces.com/profile/satriaMhtm">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=satriaMhtm&theme=dark" alt="Codeforces Stats" />
   </a>
 </p>
 
@@ -47,9 +47,9 @@ Always curious, always learning. 🌱
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=safari&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/satria-mahatama)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:satrihgm@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-000000?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/satriamhtm)
 
 ---
 
