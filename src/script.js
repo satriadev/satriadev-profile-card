@@ -1,9 +1,11 @@
 const language = {
     id: {
-        desc: 'Halo',
+        desc: 'Siap mengubah tantangan Anda menjadi solusi digital yang nyata?',
+        contact: 'Hubungi Saya!'
     },
     en: {
-        desc: 'hi',
+        desc: 'Ready to turn your challenges into real digital solutions?',
+        contact: 'Contact Me!'
     }
 };
 
@@ -12,6 +14,7 @@ let curLang = 'id';
 
 const updateLang = (lang) => {
     document.getElementById('desc').textContent = language[lang].desc;
+    document.getElementById('contact').textContent = language[lang].contact;
     langBtn.textContent = lang === 'en' ? 'EN' : 'ID';
 };
 
